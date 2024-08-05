@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Sophia!
-- 👀 I’m interested in coding, web and game development
+- 👀 I’m interested in coding, web, and game development
 - 🌱 I’m currently learning Lua
 - 👩‍💻 Striving to make one commit a day
 - 📫 How to reach me 
