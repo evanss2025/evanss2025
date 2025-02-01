@@ -5,7 +5,7 @@
 -- [Linkedin](https://www.linkedin.com/in/sophia-evans-094656270/)
 
 ### :trophy: Awards 
-- MA District 4 Congressional App Challenge Winner for [EcoConnect](https://github.com/EerierGosling/EcoConnect)
+- MA District 4 Congressional App Challenge Winner for [EcoConnect](https://github.com/evanss2025/EcoConnect)
 - Best Use of MongoDB Atlas at PennApps for [Matchtube](https://github.com/EerierGosling/MatchTube)
 - Most Creative Honorable Mention at PennApps for [Matchtube](https://github.com/EerierGosling/MatchTube)
 - 3rd Place LionHacks for [Cheese Hunt](https://github.com/evanss2025/Cheese-hunt)
