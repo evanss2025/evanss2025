@@ -1,10 +1,11 @@
 # 👋 Hi, I’m Sophia!
 - 👀 I’m interested in coding, web, and game development
-- 🌱 I’m currently learning Lua + Next.js
+- 🌱 I’m currently learning C#
 - 📫 How to reach me 
 -- [Linkedin](https://www.linkedin.com/in/sophia-evans-094656270/)
 
 ### :trophy: Awards 
+- MA District 4 Congressional App Challenge Winner for [EcoConnect](https://github.com/EerierGosling/EcoConnect)
 - Best Use of MongoDB Atlas at PennApps for [Matchtube](https://github.com/EerierGosling/MatchTube)
 - Most Creative Honorable Mention at PennApps for [Matchtube](https://github.com/EerierGosling/MatchTube)
 - 3rd Place LionHacks for [Cheese Hunt](https://github.com/evanss2025/Cheese-hunt)
