@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Sophia!
 - 👀 I’m interested in coding, web, and game development
-- 🌱 I’m currently learning C#
+- 🌱 I’m currently learning C# + Next.js + Java
 - 📫 How to reach me 
 -- [Linkedin](https://www.linkedin.com/in/sophia-evans-094656270/)
 
