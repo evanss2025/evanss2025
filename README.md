@@ -8,9 +8,6 @@
 - MA District 4 Congressional App Challenge Winner for [EcoConnect](https://github.com/evanss2025/EcoConnect)
 - Best Use of MongoDB Atlas at PennApps for [Matchtube](https://github.com/EerierGosling/MatchTube)
 - Most Creative Honorable Mention at PennApps for [Matchtube](https://github.com/EerierGosling/MatchTube)
-- 3rd Place LionHacks for [Cheese Hunt](https://github.com/evanss2025/Cheese-hunt)
-- Best Female Team Hack at KTHacks for [FuturePath](https://github.com/evanss2025/FuturePath)
-- Best Overall 2nd Place at MVHacks for [FuturePath](https://github.com/evanss2025/FuturePath)
 
 [![HTML](https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff)](#)
